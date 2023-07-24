@@ -1,7 +1,0 @@
-day 1
-
-*icann-decides the connection of the fiber net data cable
-
-version control system
-DOM-data object model ->its like a tree like format
-15:21 24-07-2023
